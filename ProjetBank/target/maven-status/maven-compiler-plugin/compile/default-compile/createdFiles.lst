@@ -1,0 +1,6 @@
+com\mycompany\projetbank\ProjetBank.class
+acteurSystem\Agent.class
+objetSystem\Compte.class
+objetSystem\HistoriqueTransaction.class
+objetSystem\Systeme.class
+acteurSystem\Client.class
